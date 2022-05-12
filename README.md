@@ -1,4 +1,6 @@
-# my_vscode_config
+# my vscode config
+
+My config file(s) for [Visual Studio Code](https://en.wikipedia.org/wiki/Visual_Studio_Code).
 
 Kind of a backup for Emacs that I use, but who knows maybe I will have a change of heart some day.
 
@@ -32,4 +34,5 @@ List of Installed (or tried out) Plugins:
 # Important info
 
 **Do własnego użytku, nie powinno być używane przez nikogo innego.**
+
 **For my personal use only, should not be used by anyone else.**
