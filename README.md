@@ -1,5 +1,7 @@
 # my_vscode_config
 
+Kind of a backup for Emacs that I use, but who knows maybe I will have a change of heart some day.
+
 path to file `~/.config/Code/User/settings.json`
 
 List of Installed (or tried out) Plugins:
